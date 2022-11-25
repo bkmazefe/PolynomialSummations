@@ -1,3 +1,6 @@
+    Efe Bıkmaz
+Twitter: @bkmazefe_
+
 #include <stdio.h>
 
 void readPolynomial(double coefficients[], int degrees[]){
